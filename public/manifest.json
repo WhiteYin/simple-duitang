@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "堆糖（简版）",
+  "name": "simple duitang app",
   "icons": [
     {
       "src": "favicon.ico",
